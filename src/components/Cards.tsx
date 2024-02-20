@@ -55,7 +55,7 @@ function Cards({ selectedInterval }: Props) {
 							<div className="flex items-baseline justify-between">
 								<h2 className="text-lg text-white">{item.title}</h2>
 
-								<img src="/images/icon-ellipsis.svg" />
+								<img src="/images/icon-ellipsis.svg" alt="ellipsis icon" />
 							</div>
 							<div className="flex items-center justify-between md:items-start md:flex md:flex-col">
 								<h3 className="text-3xl font-light text-white md:text-5xl md:pt-4">
